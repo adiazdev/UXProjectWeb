@@ -1,7 +1,7 @@
 # Sistema de Administración de Ligas de Fútbol (Repositorio Web)
 Este repositorio fue creado para el proyecto semestral de la materia de User Experience donde simulamos un ambiente de trabajo real, utilizando la metodología agil SCRUM, trabajando con un cliente "real" para realizar una aplicación de software para su negocio. Nuestro equipo estaba conformado de un Project Owner, SCRUM Master y un Software Architect. Una vez contactamos con el cliente y establecimos medios de comunicación, empezamos a trabajar en el proyecto.
 
-El repositorio para la parte movil puede encontrarse en la siguiente liga: https://github.com/a329782/UXProjectApp .
+El repositorio para la parte movil puede encontrarse en la siguiente liga: https://github.com/adiazdev/UXProjectApp .
 
 
 ## Descripción del proyecto
@@ -43,7 +43,7 @@ Para correr el proyecto es esencial instalar los siguientes programas y actualiz
 #### **Clonando el repositorio**
 Empezamos por clonar el repositorio actual, podemos utilizar el comando:
 ```
-git clone https://github.com/a329782/UXProjectWeb.git
+git clone https://github.com/adiazdev/UXProjectWeb.git
 ```
 
 #### **Ionic CLI**
@@ -84,7 +84,7 @@ Y se iniciará una pagina en la dirección http://localhost:8100/login y simplem
 
 ## Autores
 * **Humberto Navarro** - [Repositorio](https://github.com/fanpug)
-* **Alejandro Díaz** - [Repositorio](https://github.com/a329782)
+* **Alejandro Díaz** - [Repositorio](https://github.com/adiazdev)
 * **Enrique Fernandez** - [Repositorio](https://github.com/lfernandez17)
 
 
